@@ -1,0 +1,21 @@
+City,Category,Item,Monthly Cost (AUD)
+Melbourne,Rent,1BR Inner City,"2,409.55"
+Melbourne,Rent,1BR Outer Suburbs,"1,881.73"
+Melbourne,Groceries,Weekly Basket,114.05
+Melbourne,Utilities,Electricity & Internet,347.56
+Melbourne,Transport,Monthly Public Transport Pass,187.5
+Sydney,Rent,1BR Inner City,"3,328.67"
+Sydney,Rent,1BR Outer Suburbs,"2,279.11"
+Sydney,Groceries,Weekly Basket,113.47
+Sydney,Utilities,Electricity & Internet,427.26
+Sydney,Transport,Monthly Public Transport Pass,217.39
+Adelaide,Rent,1BR Inner City,"1,984.62"
+Adelaide,Rent,1BR Outer Suburbs,"1,680.92"
+Adelaide,Groceries,Weekly Basket,112.06
+Adelaide,Utilities,Electricity & Internet,445.67
+Adelaide,Transport,Monthly Public Transport Pass,115
+Hobart,Rent,1BR Inner City,"2,466.67"
+Hobart,Rent,1BR Outer Suburbs,"1,766.00"
+Hobart,Groceries,Weekly Basket,126.29
+Hobart,Utilities,Electricity & Internet,548.68
+Hobart,Transport,Monthly Public Transport Pass,105
