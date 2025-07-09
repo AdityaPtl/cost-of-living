@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Set custom favicon and tab title using HTML
+st.set_page_config(
+    page_title="Cost of Living Explorer",
+    page_icon="🏙️",  # You can use an emoji or a URL to an image
+)
+
 # Load data
 df = pd.read_csv("data/cost_of_living_template.csv")
 df['Monthly Cost (AUD)'] = pd.to_numeric(df['Monthly Cost (AUD)'], errors='coerce')
